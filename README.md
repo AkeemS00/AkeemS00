@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkeemS00!
 - 👀 I’m interested in Microsoft Azure and other cloud computing platforms!
-- 🌱 I’m currently learning GitHub, Terraform and anything else along the way.
+- 🌱 I’m currently learning Azure, GitHub, Terraform, AI and anything else along the way.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - https://www.linkedin.com/in/akeemsmiley/
 
