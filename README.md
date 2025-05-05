@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkeemS00!
+- 👋 Hi, I’m Akeem!
 - 👀 I’m interested in Microsoft Azure and other cloud computing platforms!
 - 🌱 I’m currently learning Azure, Terraform, AI and anything else along the way.
 
